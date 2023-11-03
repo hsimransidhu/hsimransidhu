@@ -1,4 +1,4 @@
- ![Header](./github-header-image.png)
+ ![github-header-image](https://github.com/hsimransidhu/hsimransidhu/assets/119031600/4a379fa0-d55f-4a87-b30c-4b2159f907ba)
 
 Hello World 👋 , I'm Harsimran jot Kaur, a passionate developer with a love for all things tech. I'm constantly exploring new technologies and learning new skills to enhance my coding progress.
 
