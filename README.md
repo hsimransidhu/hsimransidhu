@@ -8,11 +8,11 @@ I'm a Winnipeg-based developer with a background in HTML,CSS and Javascript and 
 
 ## Skills
  
-- **HTML:** Proficient in creating structured and semantically meaningful web pages.
-- **CSS:** Familiar with styling web content and making it visually appealing.
-- **JavaScript:** Comfortable with client-side scripting for interactive web applications.
-- **C and C++:** Learning the fundamentals of programming with a focus on problem-solving.
+-![Static Badge](https://img.shields.io/badge/code-HTML-green)
+![Static Badge](https://img.shields.io/badge/code-CSS-green)
+-![Static Badge](https://img.shields.io/badge/code-Javascript-green)
 
+ 
 I'm a beginner in the coding world, and I'm eager to expand my knowledge and skills. Open to learning new technologies and collaborating on exciting projects.
 
 ## GitHub Stats
