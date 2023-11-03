@@ -18,7 +18,9 @@ I'm a beginner in the coding world, and I'm eager to expand my knowledge and ski
 ## GitHub Stats
 
  [![hsimransidhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsimransidhu)](https://github.com/hsimransidhu/github-readme-stats)
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsimransidhu)
+ 
  ![hsimransidhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hsimransidhu&theme=dracula) 
 
 ## Connect with Me
