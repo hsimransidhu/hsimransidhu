@@ -9,7 +9,7 @@ I'm a Winnipeg-based developer with a background in HTML,CSS and Javascript and 
 ## Skills
  
 -![Static Badge](https://img.shields.io/badge/code-HTML-green)
-![Static Badge](https://img.shields.io/badge/code-CSS-green)
+-![Static Badge](https://img.shields.io/badge/code-CSS-green)
 -![Static Badge](https://img.shields.io/badge/code-Javascript-green)
 
  
