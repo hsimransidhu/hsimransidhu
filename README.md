@@ -1,4 +1,4 @@
-![Banner Image](https://link.to/your/banner-image.png)
+ ![Header](./your-header-image-name.png)
 
 Hello World 👋 , I'm Harsimran jot Kaur, a passionate developer with a love for all things tech. I'm constantly exploring new technologies and learning new skills to enhance my coding progress.
 
