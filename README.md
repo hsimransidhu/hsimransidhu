@@ -20,7 +20,7 @@ I'm a beginner in the coding world, and I'm eager to expand my knowledge and ski
 ![hsimransidhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsimransidhu&show_icons=true&count_private=true)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsimransidhu)
- [![hsimransidhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ![hsimransidhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with Me
 
