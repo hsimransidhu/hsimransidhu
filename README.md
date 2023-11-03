@@ -1,4 +1,4 @@
- ![Header](./C:\Users\simus\Downloads\github-header-image (1).png)
+ ![Header](./github-header-image.png)
 
 Hello World 👋 , I'm Harsimran jot Kaur, a passionate developer with a love for all things tech. I'm constantly exploring new technologies and learning new skills to enhance my coding progress.
 
