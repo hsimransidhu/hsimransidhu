@@ -7,7 +7,10 @@ Hello World 👋 , I'm Harsimran jot Kaur, a passionate developer with a love fo
 I'm a Winnipeg-based developer with a background in HTML,CSS and Javascript and I'm excited about the endless possibilities of software development. When I'm not coding, you can find me reading books, watching movies or walking around in the lap of nature.
 
 ## Skills
- 
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 -![Static Badge](https://img.shields.io/badge/code-HTML-green)
 -![Static Badge](https://img.shields.io/badge/code-CSS-green)
 -![Static Badge](https://img.shields.io/badge/code-Javascript-green)
