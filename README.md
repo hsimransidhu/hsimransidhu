@@ -11,10 +11,6 @@ I'm a Winnipeg-based developer with a background in HTML,CSS and Javascript and 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
--![Static Badge](https://img.shields.io/badge/code-HTML-green)
--![Static Badge](https://img.shields.io/badge/code-CSS-green)
--![Static Badge](https://img.shields.io/badge/code-Javascript-green)
-
  
 I'm a beginner in the coding world, and I'm eager to expand my knowledge and skills. Open to learning new technologies and collaborating on exciting projects.
 
